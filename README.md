@@ -15,7 +15,7 @@ Add the following to your project's YAML:
 external_components:
   - source:
       type: git
-      url: https://github.com/robertklep/esphome-custom-component
+      url: https://github.com/dan81andrei/esphome_custom
     components: [ custom, custom_component ]
 ```
 
